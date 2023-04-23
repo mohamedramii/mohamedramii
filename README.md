@@ -6,8 +6,8 @@ I'm a Front End Developer & Software Engineer
 
 *   🖥️  See my portfolio at [https://mohamed-ramy-portfolio.vercel.app/](http://https://mohamed-ramy-portfolio.vercel.app/)
 *   🧠  I'm learning I’m currently learning Typescript & Next.js
-*   ✉️  You can contact me at [mohamedramy101@gmail.com](mailto:mohamedramy101@gmail.com)
-*   <a href="https://wa.me/00201274006790" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="10%" height="10%" alt="Whatsapp" /></a>
+*   ✉️  You can contact me at [mohamedramy101@gmail.com](mailto:mohamedramy101@gmail.com) || <a href="https://wa.me/00201274006790" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="10%" height="10%" alt="Whatsapp" /></a>
+
 
 ### Skills 
 <p align="left">
