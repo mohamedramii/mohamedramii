@@ -5,8 +5,8 @@ I'm a Front End Developer & Software Engineer
 ---------------------------------------------
 
 *   🖥️  See my portfolio at [https://mohamed-ramy-portfolio.vercel.app/](http://https://mohamed-ramy-portfolio.vercel.app/)
-*   ✉️  You can contact me at [mohamedramy101@gmail.com](mailto:mohamedramy101@gmail.com)
 *   🧠  I'm learning I’m currently learning Typescript & Next.js
+*   ✉️  You can contact me at [mohamedramy101@gmail.com](mailto:mohamedramy101@gmail.com)
 
 ### Skills 
 <p align="left">
