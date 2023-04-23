@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mohamed ramy====================================================================================================================================I'm a Front End Developer & Software Engineer---------------------------------------------* 🖥️  See my portfolio at [https://mohamed-ramy-portfolio.vercel.app/](http://https://mohamed-ramy-portfolio.vercel.app/)* ✉️  You can contact me at [mohamedramy101@gmail.com](mailto:mohamedramy101@gmail.com)* 🧠  I'm learning I’m currently learning Typescript & Next.js
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mohamed ramyI'm a Front End Developer & Software Engineer 🖥️  See my portfolio at [https://mohamed-ramy-portfolio.vercel.app/](http://https://mohamed-ramy-portfolio.vercel.app/)* ✉️  You can contact me at [mohamedramy101@gmail.com](mailto:mohamedramy101@gmail.com)* 🧠  I'm learning I’m currently learning Typescript & Next.js
 
 ### Skills
 
